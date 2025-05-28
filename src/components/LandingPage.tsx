@@ -22,7 +22,7 @@ const LandingPage = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <img 
-              src="/lovable-uploads/4cdd1778-1d53-4e68-9891-c7497be5509f.png" 
+              src="https://cdn.jsdelivr.net/gh/freshlab-web/journey-lp@main/dist/lovable-uploads/4cdd1778-1d53-4e68-9891-c7497be5509f.png" 
               alt="Journey Consult" 
               className="h-8 md:h-10"
             />
@@ -263,7 +263,7 @@ const LandingPage = () => {
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <img 
-              src="/lovable-uploads/f5e92bce-e087-4a55-bdc5-8f9bbeb1387c.png" 
+              src="https://cdn.jsdelivr.net/gh/freshlab-web/journey-lp@main/dist/lovable-uploads/f5e92bce-e087-4a55-bdc5-8f9bbeb1387c.png" 
               alt="Journey Consult" 
               className="h-8 mb-4 md:mb-0"
             />
