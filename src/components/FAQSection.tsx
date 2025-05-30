@@ -19,10 +19,6 @@ const faqData = [
   {
     question: "Como funciona o acompanhamento?",
     answer: "Oferecemos suporte contínuo e aplicamos frameworks práticos desde a implementação até a consolidação dos resultados."
-  },
-  {
-    question: "Existe garantia de retorno?",
-    answer: "Sim, realizamos análises extras e ajustes estratégicos sem custos adicionais se os resultados prometidos não forem atingidos."
   }
 ];
 
